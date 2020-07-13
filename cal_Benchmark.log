@@ -1,0 +1,233 @@
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.multiThreadBench
+# Parameters: (maxNumber = 100)
+
+# Run progress: 0.00% complete, ETA 00:00:20
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.147 ms/op
+Iteration   1: 0.124 ms/op
+
+
+Result "multiThreadBench":
+  0.124 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.multiThreadBench
+# Parameters: (maxNumber = 1000)
+
+# Run progress: 10.00% complete, ETA 00:00:25
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.113 ms/op
+Iteration   1: 0.097 ms/op
+
+
+Result "multiThreadBench":
+  0.097 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.multiThreadBench
+# Parameters: (maxNumber = 10000)
+
+# Run progress: 20.00% complete, ETA 00:00:22
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.147 ms/op
+Iteration   1: 0.145 ms/op
+
+
+Result "multiThreadBench":
+  0.145 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.multiThreadBench
+# Parameters: (maxNumber = 100000)
+
+# Run progress: 30.00% complete, ETA 00:00:20
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.230 ms/op
+Iteration   1: 0.173 ms/op
+
+
+Result "multiThreadBench":
+  0.173 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.multiThreadBench
+# Parameters: (maxNumber = 1000000)
+
+# Run progress: 40.00% complete, ETA 00:00:17
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.286 ms/op
+Iteration   1: 0.293 ms/op
+
+
+Result "multiThreadBench":
+  0.293 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.singleThreadBench
+# Parameters: (maxNumber = 100)
+
+# Run progress: 50.00% complete, ETA 00:00:14
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.035 ms/op
+Iteration   1: 0.052 ms/op
+
+
+Result "singleThreadBench":
+  0.052 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.singleThreadBench
+# Parameters: (maxNumber = 1000)
+
+# Run progress: 60.00% complete, ETA 00:00:12
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.027 ms/op
+Iteration   1: 0.046 ms/op
+
+
+Result "singleThreadBench":
+  0.046 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.singleThreadBench
+# Parameters: (maxNumber = 10000)
+
+# Run progress: 70.00% complete, ETA 00:00:08
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.042 ms/op
+Iteration   1: 0.062 ms/op
+
+
+Result "singleThreadBench":
+  0.062 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.singleThreadBench
+# Parameters: (maxNumber = 100000)
+
+# Run progress: 80.00% complete, ETA 00:00:05
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.076 ms/op
+Iteration   1: 0.102 ms/op
+
+
+Result "singleThreadBench":
+  0.102 ms/op
+
+
+# JMH 1.14.1 (released 1392 days ago, please consider updating!)
+# VM version: JDK 1.8.0_171, VM 25.171-b11
+# VM invoker: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/bin/java
+# VM options: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51250:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: sample.CalculatorBenchmark.singleThreadBench
+# Parameters: (maxNumber = 1000000)
+
+# Run progress: 90.00% complete, ETA 00:00:02
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.416 ms/op
+Iteration   1: 0.401 ms/op
+
+
+Result "singleThreadBench":
+  0.401 ms/op
+
+
+# Run complete. Total time: 00:00:29
+
+Benchmark                              (maxNumber)  Mode  Cnt  Score   Error  Units
+CalculatorBenchmark.multiThreadBench           100  avgt       0.124          ms/op
+CalculatorBenchmark.multiThreadBench          1000  avgt       0.097          ms/op
+CalculatorBenchmark.multiThreadBench         10000  avgt       0.145          ms/op
+CalculatorBenchmark.multiThreadBench        100000  avgt       0.173          ms/op
+CalculatorBenchmark.multiThreadBench       1000000  avgt       0.293          ms/op
+CalculatorBenchmark.singleThreadBench          100  avgt       0.052          ms/op
+CalculatorBenchmark.singleThreadBench         1000  avgt       0.046          ms/op
+CalculatorBenchmark.singleThreadBench        10000  avgt       0.062          ms/op
+CalculatorBenchmark.singleThreadBench       100000  avgt       0.102          ms/op
+CalculatorBenchmark.singleThreadBench      1000000  avgt       0.401          ms/op
